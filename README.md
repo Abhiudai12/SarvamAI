@@ -10,7 +10,7 @@ A conversational AI agent that handles **restaurant search, real-time slot avail
 https://youtu.be/i_e3DAKCrhE
 
 ### 📸 **Demo GIF:**  
-![Demo GIF](Screen Recording 2025-11-27 at 1.14.00 AM.gif)
+![Demo GIF](Screen%20Recording%202025-11-27%20at%201.14.00%20AM.gif)
 
 
 ---

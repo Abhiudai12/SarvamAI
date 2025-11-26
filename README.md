@@ -35,15 +35,23 @@ This system is scalable and can be used by **restaurant chains, food apps, co-wo
 # 📂 **Project Structure**
 
 📦 GoodFoods-AI-Agent
+
 ├── generate_data.py # Generates restaurants.json
+
 ├── create_slots.py # Creates restaurant_slots.json
+
 ├── tools.py # Backend tool functions
+
 ├── orchestrator.py # LLM intent parsing → tool invocation
+
 ├── grok_llm.py # Optional Grok API integration
+
 ├── app.py # Streamlit frontend
+
 ├── restaurants.json # 100 restaurants dataset
 ├── restaurant_slots.json # Slots for each restaurant
 ├── bookings.json # Confirmed bookings
+
 └── GoodFoods_Final.ipynb # Complete runnable notebook (Colab-ready)
 
 

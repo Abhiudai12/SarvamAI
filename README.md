@@ -91,8 +91,4 @@ LLM decides → Tool called:
 ### 💬 Persistent Chat History  
 Streamlit session stores all past messages for a smooth UI experience.
 
----
-
-# 🧪 **Example Queries**
-
-### ✔️ Search restaurants
+---------------
